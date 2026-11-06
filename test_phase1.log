@@ -1,0 +1,60 @@
+[2026-10-16 19:54:12.263] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 19:54:12.263] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 19:54:12.263] [WARN ] [TEST  ] Warning message test
+[2026-10-16 19:54:12.263] [ERROR] [TEST  ] Error message test
+[2026-10-16 19:54:12.263] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 19:54:22.296] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 19:54:22.297] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 19:54:22.298] [WARN ] [TEST  ] Warning message test
+[2026-10-16 19:54:22.298] [ERROR] [TEST  ] Error message test
+[2026-10-16 19:54:22.298] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:00:15.899] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:00:15.899] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:00:15.899] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:00:15.899] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:00:15.899] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:02:32.467] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:02:32.467] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:02:32.467] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:02:32.467] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:02:32.467] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:02:47.851] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:02:47.851] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:02:47.851] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:02:47.852] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:02:47.852] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:04:05.467] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:04:05.467] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:04:05.467] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:04:05.467] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:04:05.467] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:37:08.890] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:37:08.890] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:37:08.890] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:37:08.891] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:37:08.891] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 20:38:23.565] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 20:38:23.565] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 20:38:23.565] [WARN ] [TEST  ] Warning message test
+[2026-10-16 20:38:23.565] [ERROR] [TEST  ] Error message test
+[2026-10-16 20:38:23.565] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 21:01:10.924] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 21:01:10.924] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 21:01:10.924] [WARN ] [TEST  ] Warning message test
+[2026-10-16 21:01:10.924] [ERROR] [TEST  ] Error message test
+[2026-10-16 21:01:10.924] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 21:02:40.288] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 21:02:40.288] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 21:02:40.288] [WARN ] [TEST  ] Warning message test
+[2026-10-16 21:02:40.288] [ERROR] [TEST  ] Error message test
+[2026-10-16 21:02:40.288] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 21:05:41.904] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 21:05:41.905] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 21:05:41.905] [WARN ] [TEST  ] Warning message test
+[2026-10-16 21:05:41.905] [ERROR] [TEST  ] Error message test
+[2026-10-16 21:05:41.905] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
+[2026-10-16 21:15:49.737] [DEBUG] [TEST  ] Debug message test: 123
+[2026-10-16 21:15:49.738] [INFO ] [TEST  ] Info message test: hello
+[2026-10-16 21:15:49.738] [WARN ] [TEST  ] Warning message test
+[2026-10-16 21:15:49.738] [ERROR] [TEST  ] Error message test
+[2026-10-16 21:15:49.739] [INFO ] [TEST  ] Sample Packet (10 bytes): 0E 80 31 08 00 00 00 02 B8 54
